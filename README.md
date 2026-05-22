@@ -34,7 +34,7 @@ git clone [https://github.com/ArrasyEdlyn/Portfolio_Web_Design.git](https://gith
 cd Portfolio_Web_Design
 ```
 
-###3. Frontend Setup (Node/Next.js)
+### 3. Frontend Setup (Node/Next.js)
 Navigate to the project directory and install the required JavaScript/TypeScript dependencies:
 
 #Using npm:
@@ -47,13 +47,13 @@ Once the installation is complete, spin up frontend development server
 npm run dev
 ```
 
-###4. Backend SetUp(Python/Flask)
+### 4. Backend SetUp(Python/Flask)
 Open new terminal and install flask modul :
 ```bash
 pip install flask
 ```
 
-###Run Your Server
+### Run Your Server
 ```bash
 python app.py
 ```
